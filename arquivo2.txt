@@ -1,4 +1,6 @@
 
 Segundo arquivo para testes.
 
-Adicionando mai uma linha a aeste arquivo.
+Adicionando mais uma linha a a este arquivo.
+
+Adicionando mais uma linha a a este arquivo.
