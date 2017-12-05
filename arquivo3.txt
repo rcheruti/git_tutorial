@@ -2,3 +2,5 @@
 Adicinado terceiro arquivo
 
 Alterando este arquivo.
+
+Add mais uma linha.
