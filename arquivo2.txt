@@ -4,3 +4,5 @@ Segundo arquivo para testes.
 Adicionando mais uma linha a a este arquivo.
 
 Adicionando mais uma linha a a este arquivo.
+
+Adicionando uma linha numa nova branch.
