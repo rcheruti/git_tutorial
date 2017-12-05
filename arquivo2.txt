@@ -6,3 +6,5 @@ Adicionando mais uma linha a a este arquivo.
 Adicionando mais uma linha a a este arquivo.
 
 Adicionando uma linha numa nova branch.
+
+Add linha.
