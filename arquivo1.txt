@@ -1,6 +1,8 @@
 
-Primeiro arquivo para testes.
+Primeiro arquivo para testes, com umas palavras a mais.
 
 Add linha em Master.
 
 Add linha em branch1.
+
+Mais uma linha de palavras para testarmos a mescla.
