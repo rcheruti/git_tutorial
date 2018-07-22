@@ -1,2 +1,4 @@
 
-Primeiro arquivo para testes.
+Primeiro arquivo para testes, com umas palavras a mais.
+
+Mais uma linha de palavras para testarmos a mescla.
